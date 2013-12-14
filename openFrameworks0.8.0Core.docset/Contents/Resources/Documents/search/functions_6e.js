@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['nativeviewport',['nativeViewport',['../classof_matrix_stack.html#afe507d78e726f6513e90028cce9cfcf3',1,'ofMatrixStack']]],
+  ['natural',['natural',['../of_file_utils_8cpp.html#a1bc53b88a3bcabad56b429c1e42f1d1c',1,'ofFileUtils.cpp']]],
+  ['newfrustummatrix',['newFrustumMatrix',['../classof_matrix4x4.html#a5286c58f3ebf08fca0956f7ed707607d',1,'ofMatrix4x4']]],
+  ['newidentitymatrix',['newIdentityMatrix',['../classof_matrix4x4.html#a14607cd4c2ad5820b8c79d16721ac553',1,'ofMatrix4x4']]],
+  ['newlookatmatrix',['newLookAtMatrix',['../classof_matrix4x4.html#a7af8d42fffaef77dafe5ca316554da69',1,'ofMatrix4x4']]],
+  ['newortho2dmatrix',['newOrtho2DMatrix',['../classof_matrix4x4.html#a7db2f13f3e9bb5413ba017224f719423',1,'ofMatrix4x4']]],
+  ['neworthomatrix',['newOrthoMatrix',['../classof_matrix4x4.html#accd9a759bedacc4aa7cccf95911ee131',1,'ofMatrix4x4']]],
+  ['newperspectivematrix',['newPerspectiveMatrix',['../classof_matrix4x4.html#aa396844090e1bb55493d40069e581522',1,'ofMatrix4x4']]],
+  ['newrotationmatrix',['newRotationMatrix',['../classof_matrix4x4.html#aacb01604b5478f3f189f7fef2b147040',1,'ofMatrix4x4::newRotationMatrix(const ofVec3f &amp;from, const ofVec3f &amp;to)'],['../classof_matrix4x4.html#af8e391f447240ef16bde99bc2c06be83',1,'ofMatrix4x4::newRotationMatrix(float angle, float x, float y, float z)'],['../classof_matrix4x4.html#afb0a470d56dcd0baf1fcd6269e024128',1,'ofMatrix4x4::newRotationMatrix(float angle, const ofVec3f &amp;axis)'],['../classof_matrix4x4.html#a8ad090ebae6d497c5c90dbbc87030cd9',1,'ofMatrix4x4::newRotationMatrix(float angle1, const ofVec3f &amp;axis1, float angle2, const ofVec3f &amp;axis2, float angle3, const ofVec3f &amp;axis3)'],['../classof_matrix4x4.html#a91c531a26df5265645af636e6a77458a',1,'ofMatrix4x4::newRotationMatrix(const ofQuaternion &amp;quat)']]],
+  ['newscalematrix',['newScaleMatrix',['../classof_matrix4x4.html#a523850a2fbde8e8bf2f1c7e67b818608',1,'ofMatrix4x4::newScaleMatrix(const ofVec3f &amp;sv)'],['../classof_matrix4x4.html#a6f5c259dfd84ad6d4a3821f573bacdf5',1,'ofMatrix4x4::newScaleMatrix(float sx, float sy, float sz)']]],
+  ['newsubpath',['newSubPath',['../classof_path.html#abfe7284268e42ffcea066c9ffbe9a596',1,'ofPath']]],
+  ['newtranslationmatrix',['newTranslationMatrix',['../classof_matrix4x4.html#a21d86ff138b1764fd5b7d9be3788839f',1,'ofMatrix4x4::newTranslationMatrix(const ofVec3f &amp;dv)'],['../classof_matrix4x4.html#a86c1b2df50ca25c63a36d7f39268c25b',1,'ofMatrix4x4::newTranslationMatrix(float x, float y, float z)']]],
+  ['nextframe',['nextFrame',['../classof_base_video_player.html#a8a929bba80365434a072cbf7e2d8b7d9',1,'ofBaseVideoPlayer::nextFrame()'],['../classof_gst_video_player.html#a411a60389cbdff46723bab0d8f12b866',1,'ofGstVideoPlayer::nextFrame()'],['../classof_q_t_kit_player.html#a36ec05d764c6ae3a27c81f6f445406fd',1,'ofQTKitPlayer::nextFrame()'],['../classof_video_player.html#a899fccde364c629262508a7a5347f698',1,'ofVideoPlayer::nextFrame()']]],
+  ['norm_5finf',['norm_inf',['../of_matrix4x4_8cpp.html#a4ca81ec6c69c763ea25ffe7130ee2513',1,'ofMatrix4x4.cpp']]],
+  ['norm_5fone',['norm_one',['../of_matrix4x4_8cpp.html#a5bb000e90bf85938a386155927a1dbe1',1,'ofMatrix4x4.cpp']]],
+  ['normalize',['normalize',['../classof_quaternion.html#ac26874bac00aaabf30c20d0c95ff0d5f',1,'ofQuaternion::normalize()'],['../classof_vec2f.html#adaa0832bfedd859adb9df1616a4384c8',1,'ofVec2f::normalize()'],['../classof_vec3f.html#a878f3aee3675df4b81ac0f9c42ebc609',1,'ofVec3f::normalize()'],['../classof_vec4f.html#a0901c68e2a9a4095221dfb7c5de1ef87',1,'ofVec4f::normalize()'],['../classof_color__.html#a383be8c22b569253381ea7e5ed80f51d',1,'ofColor_::normalize()']]],
+  ['normalizeandapplysavedtexcoords',['normalizeAndApplySavedTexCoords',['../classof3d_primitive.html#a157ddb6ce88f87553e45c04b79fa7b85',1,'of3dPrimitive']]],
+  ['normalized',['normalized',['../classof_vec2f.html#a5bc256605f4abb393adbfa2714bb43f6',1,'ofVec2f::normalized()'],['../classof_vec3f.html#a603c4fee6795cab3335be5542633f328',1,'ofVec3f::normalized()'],['../classof_vec4f.html#a1520795684fd967171758cdea8180212',1,'ofVec4f::normalized()']]],
+  ['notify',['notify',['../classof_delegate.html#aabe8c8db8d4473af8b8846a8cea2395e',1,'ofDelegate::notify()'],['../classof_delegate_3_01_t_obj_00_01_t_args_00_01false_01_4.html#a9299e2c68a3766ac10a71a740d33b376',1,'ofDelegate&lt; TObj, TArgs, false &gt;::notify()'],['../classof_delegate_3_01_t_obj_00_01void_00_01true_01_4.html#ad07b9aff61f6f6dd173aa0215a1f6aee',1,'ofDelegate&lt; TObj, void, true &gt;::notify()'],['../classof_delegate_3_01_t_obj_00_01void_00_01false_01_4.html#a6c8b0747723e68ae87b3b7d078bdbd84',1,'ofDelegate&lt; TObj, void, false &gt;::notify()']]],
+  ['notifyparameterchanged',['notifyParameterChanged',['../classof_parameter_group.html#a879025d16a12cbf64b2bcf0f07754e33',1,'ofParameterGroup']]],
+  ['notifyparent',['notifyParent',['../classof_abstract_parameter.html#a7f73e294af3bb01969fa7d8f21afb269',1,'ofAbstractParameter']]],
+  ['numfiles',['numFiles',['../classof_directory.html#a791eb3d185cf3f9578cef92a39afc913',1,'ofDirectory']]]
+];
